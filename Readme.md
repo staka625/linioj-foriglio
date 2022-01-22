@@ -14,6 +14,9 @@ This software is a tool to delete lines in a text file.
 
    This software will delete lines from "From" value to "To" value.
 
+1. Select the text encoding you want to change from the "Convert to" pull-down menu.
+   If you don't want to change it, select "Keep Source".
+
 1. Click the Delete button to delete the specified line and save the file with "\_forigita" appended to the original file name.
 
 ## Author
