@@ -2,11 +2,11 @@
 
 - [English/英語](Readme.md)
 
-## Features
+## 機能
 
 本ソフトウェアはテキストファイルの行を削除するプログラムである。
 
-## Usage
+## 使い方
 
 1. Open ボタンを押し，ファイルを選択します.
 
@@ -21,11 +21,11 @@
 
    削除されたファイルは，もとのファイル名に"\_forigita"が付加されます
 
-## Author
+## 著者
 
 - 開発者 : staka625( https://github.com/staka625 )
 
-## License
+## ライセンス
 
 Copyright (c) 2022 staka625
 This program is free software; you can redistribute it and/or
