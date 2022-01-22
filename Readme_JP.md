@@ -1,24 +1,26 @@
 # linioj-forigilo
 
+- [English/英語](Readme.md)
+
 ## Features
 
 本ソフトウェアはテキストファイルの行を削除するプログラムである。
 
 ## Usage
 
-1. Openボタンを押し，ファイルを選択します.
+1. Open ボタンを押し，ファイルを選択します.
 
 1. 削除したい行数を指定します．
 
    ※「From」から「To」までの行を削除します。
 
-1. Deleteボタンを押すと，指定した行削除されます。
+1. Delete ボタンを押すと，指定した行削除されます。
 
-   削除されたファイルは，もとのファイル名に"_forigita"が付加されます
+   削除されたファイルは，もとのファイル名に"\_forigita"が付加されます
 
 ## Author
 
-* 開発者 : staka625( https://github.com/staka625 )
+- 開発者 : staka625( https://github.com/staka625 )
 
 ## License
 

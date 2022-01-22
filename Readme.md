@@ -1,5 +1,7 @@
 # linioj-forigilo
 
+- [日本語/Japanese](Readme_JP.md)
+
 ## Features
 
 This software is a tool to delete lines in a text file.
@@ -8,15 +10,15 @@ This software is a tool to delete lines in a text file.
 
 1. Press the Open button and select the file.
 
-1. Enter the number of lines to be deleted. 
+1. Enter the number of lines to be deleted.
 
    This software will delete lines from "From" value to "To" value.
 
-1. Click the Delete button to delete the specified line and save the file with "_forigita" appended to the original file name.
+1. Click the Delete button to delete the specified line and save the file with "\_forigita" appended to the original file name.
 
 ## Author
 
-* Developer : staka625( https://github.com/staka625 )
+- Developer : staka625( https://github.com/staka625 )
 
 ## License
 
